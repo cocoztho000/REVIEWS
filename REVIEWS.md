@@ -1,12 +1,12 @@
 ## Tom
 ### devops-visualization-enablement
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### containers-jenkins-jobs
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### kubernetes
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Automated cherry pick of #32363 #32359 #32239 #31828 #32351](https://github.com/kubernetes/kubernetes/pull/32448) |  | 09/10/16 09:43:01 |  | None / None | True | True | 
 |[Automated cherry pick of #32020 #32213 #32302 #32232](https://github.com/kubernetes/kubernetes/pull/32446) |  | 09/10/16 09:09:24 |  | None / None | True | True | 
@@ -24,7 +24,7 @@
 |[HPA: Allow customizing scale-forbidden-windows](https://github.com/kubernetes/kubernetes/pull/32408) |  | 09/09/16 08:38:54 |  | None / None | True | True | 
 |[add local subject access review API](https://github.com/kubernetes/kubernetes/pull/32407) |  | 09/09/16 07:46:34 |  | None / None | True | True | 
 ### leakcanary
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[ignore Meizu RecommendActivity leaked in Android Instrumentation](https://github.com/square/leakcanary/pull/596) |  | 09/08/16 10:32:30 |  | None / None | True | True | 
 |[Add excluded ref for memory leak in SensorManager on Lenovo devices](https://github.com/square/leakcanary/pull/571) |  | 07/26/16 11:45:34 |  | None / None | True | True | 
@@ -37,12 +37,12 @@
 |[Fix NoSuchMethodError on Android 2.3.6 (API 10)](https://github.com/square/leakcanary/pull/370) |  | 01/06/16 09:16:34 |  | None / None | True | True | 
 |[OMG ZOMBIES, RUN RUN RUN](https://github.com/square/leakcanary/pull/257) |  | 08/27/15 09:12:32 |  | None / None | True | True | 
 ### artsy.github.io
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |[Threading101](https://github.com/artsy/artsy.github.io/pull/230) |  | 05/25/16 02:40:46 |  | None / None | True | True | 
 ### oscar-evil-twin
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 ### api-test
-|Review Title | # of Comments | Date Updated | merge state | (lines +) / (Lines -) | updated since your last comment | new review since your last comment | 
+|Title | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
