@@ -12,5 +12,5 @@
 
 | <sub>Issue Title</sub> | <sub>Issue #</sub> | <sub>Submitted By</sub> | <sub># of Comments</sub> | <sub>:date:</sub> | <sub>Labels</sub> | <sub>New Comments</sub> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <sub>[Fix letter](https://github.com/cocoztho000/Sams-Blog/pull/1)</sub> | <sub>2</sub> | <sub>cocoztho000</sub> | <sub>0</sub> | <sub>09/10/16 06:12:19 PM</sub> | <sub>bug</sub> | <sub>False</sub> | 
+| <sub>[test](https://github.com/cocoztho000/Sams-Blog/issues/2)</sub> | <sub>2</sub> | <sub>cocoztho000</sub> | <sub>0</sub> | <sub>09/10/16 06:12:19 PM</sub> | <sub>bug</sub> | <sub>False</sub> | 
 
