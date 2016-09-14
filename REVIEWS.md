@@ -6,6 +6,6 @@
 ###### **unknown**: uhh idk :no_mouth:
 ## Tom
 ### sams-blog
-| Review Title | Submitted By | # of Comments | :date: | merge state | Lines +/- | updated since your last comment | new review since your last comment | 
+| <sub>Review Title</sub> | <sub>Submitted By</sub> | <sub># of Comments</sub> | <sub>:date:</sub> | <sub>merge state</sub> | <sub>Lines +/-</sub> | <sub>updated since your last comment</sub> | <sub>new review since your last comment</sub> | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Fix letter](https://github.com/cocoztho000/Sams-Blog/pull/1) | cocoztho000 | 0 | 09/11/16 03:20:38 | dirty | 9 / -9 | Not Implemented | False | 
+| <sub>[Fix letter](https://github.com/cocoztho000/Sams-Blog/pull/1)</sub> | <sub>cocoztho000</sub> | <sub>0</sub> | <sub>09/14/16 02:41:05</sub> | <sub>dirty</sub> | <sub>9 / -9</sub> | <sub>Not Implemented</sub> | <sub>False</sub> | 
